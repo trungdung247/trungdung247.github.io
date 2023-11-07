@@ -24,7 +24,7 @@ pannellum.viewer('panorama', {
             "pitch": -3,
             "yaw": 117,
             "type": "equirectangular",
-            "panorama": "https://images.squarespace-cdn.com/content/v1/5aadf482aa49a1d810879b88/1623590594310-Y4AUAQFQNUTSRNF295NI/1.jpg?format=2500w",
+            "panorama": "images/demo1.png",
             "hotSpots": [
                 {
                     "pitch": -3,
