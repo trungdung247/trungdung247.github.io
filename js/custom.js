@@ -24,7 +24,7 @@ viewer = pannellum.viewer('panorama', {
             "pitch": 10,
             "yaw": 30,
             "type": "equirectangular",
-            "panorama": "https://igb-api.onrender.com/uploads/images/panorama1.jpg",
+            "panorama": "https://ik.imagekit.io/1wl0g0hy7/IGBSoft/Demo/panorama1.jpg?updatedAt=1705889070446",
             "hotSpots": [
                 {
                     "pitch": -20,
@@ -52,7 +52,7 @@ viewer = pannellum.viewer('panorama', {
             "hfov": 110,
             "yaw": 5,
             "type": "equirectangular",
-            "panorama": "https://igb-api.onrender.com/uploads/images/panorama2.jpeg",
+            "panorama": "https://ik.imagekit.io/1wl0g0hy7/IGBSoft/Demo/panorama2.jpeg?updatedAt=1705889070477",
             "hotSpots": [
                 {
                     "pitch": -20,
@@ -76,7 +76,7 @@ viewer = pannellum.viewer('panorama', {
             "yaw": 5,
             "pitch": 5,
             "type": "equirectangular",
-            "panorama": "https://igb-api.onrender.com/uploads/images/panorama3.jpg",
+            "panorama": "https://ik.imagekit.io/1wl0g0hy7/IGBSoft/Demo/panorama3.jpg?updatedAt=1705889070483",
             "hotSpots": [
                 {
                     "pitch": -30,
@@ -107,7 +107,7 @@ viewer = pannellum.viewer('panorama', {
             "yaw": 5,
             "pitch": 5,
             "type": "equirectangular",
-            "panorama": "https://igb-api.onrender.com/uploads/images/panorama4.jpeg",
+            "panorama": "https://ik.imagekit.io/1wl0g0hy7/IGBSoft/Demo/panorama4.jpeg?updatedAt=1705889070481",
             "hotSpots": [
                 {
                     "pitch": -30,
@@ -140,7 +140,7 @@ viewer = pannellum.viewer('panorama', {
             "yaw": 5,
             "pitch": 5,
             "type": "equirectangular",
-            "panorama": "https://igb-api.onrender.com/uploads/images/panorama5.jpg",
+            "panorama": "https://ik.imagekit.io/1wl0g0hy7/IGBSoft/Demo/panorama5.jpg?updatedAt=1705889070424",
             "hotSpots": [
                 {
                     "pitch": -30,
@@ -174,7 +174,7 @@ viewer = pannellum.viewer('panorama', {
             "yaw": 5,
             "pitch": 5,
             "type": "equirectangular",
-            "panorama": "https://igb-api.onrender.com/uploads/images/panorama6.jpeg",
+            "panorama": "https://ik.imagekit.io/1wl0g0hy7/IGBSoft/Demo/panorama6.jpeg?updatedAt=1705889070487",
             "hotSpots": [
                 {
                     "pitch": -5,
@@ -215,7 +215,7 @@ viewer = pannellum.viewer('panorama', {
             "yaw": 5,
             "pitch": 5,
             "type": "equirectangular",
-            "panorama": "https://igb-api.onrender.com/uploads/images/panorama7.jpeg",
+            "panorama": "https://ik.imagekit.io/1wl0g0hy7/IGBSoft/Demo/panorama7.jpeg?updatedAt=1705889070493",
             "hotSpots": [
                 {
                     "pitch": -6,
